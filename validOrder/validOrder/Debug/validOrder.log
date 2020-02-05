@@ -1,0 +1,3 @@
+﻿  validOrder.cpp
+e:\leetcode\validorder\validorder\validorder.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  validOrder.vcxproj -> E:\LeetCode\validOrder\Debug\validOrder.exe

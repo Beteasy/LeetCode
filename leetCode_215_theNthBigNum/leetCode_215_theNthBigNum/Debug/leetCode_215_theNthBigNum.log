@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  leetCode_215_theNthBigNum.cpp
+e:\leetcode\leetcode_215_thenthbignum\leetcode_215_thenthbignum\leetcode_215_thenthbignum.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+e:\leetcode\leetcode_215_thenthbignum\leetcode_215_thenthbignum\leetcode_215_thenthbignum.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  leetCode_215_theNthBigNum.vcxproj -> E:\LeetCode\leetCode_215_theNthBigNum\Debug\leetCode_215_theNthBigNum.exe
